@@ -1,0 +1,12 @@
+.card-info{
+    background-color: white;
+    width: 360px;
+    border-radius: 6px;
+    position: relative;
+    box-shadow: 2px 2px 37px rgba(163, 163, 163, 0.7);
+}
+.btn-logout{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
